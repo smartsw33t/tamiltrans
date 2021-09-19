@@ -1,0 +1,10 @@
+pip install google
+pip install google-api-core
+pip install --upgrade google-api-python-client
+pip install --upgrade google-cloud-translate
+pip install google-cloud
+pip install google-cloud-vision
+pip install google.cloud.bigquery
+pip install google.cloud.storage
+pip install protobuf
+pip install google-cloud-translate
